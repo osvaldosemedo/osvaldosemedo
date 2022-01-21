@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
  ![image](https://user-images.githubusercontent.com/52205687/150558661-501ffbc9-2d29-408d-af54-32c073608f2f.png)
  
- ![osvaldosemedo GitHub stats](https://github-readme-stats.vercel.app/api?osvaldosemedo=anuraghazra&show_icons=true&theme=radical)
+ ![osvaldosemedo GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
